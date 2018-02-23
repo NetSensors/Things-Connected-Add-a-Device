@@ -30,3 +30,5 @@ This should complete the creation of your device on the system. It may take up t
 ![Screenshot](screenshots/tc005.png)
 
 
+
+![Screenshot](screenshots/tc006.png)
