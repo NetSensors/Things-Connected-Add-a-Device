@@ -31,8 +31,10 @@ Adding a Sigfox device on the things connected portal
 
 This should complete the creation of your device on the system. It may take up to 5 mins for the registration to complete so please be patient. 
 
+1. You now need to select where your messagages are delivered at the moment just select sandbox as this is sufficent for the simple example. We will look at forwarding messages to our own applications later.
+
 ![Screenshot](screenshots/tc005.png)
 
-
+You have now successfully provisioned your first device on the Sigfox network using the things connected dashboard.
 
 ![Screenshot](screenshots/tc006.png)
