@@ -9,14 +9,14 @@ Adding a Sigfox device on the things connected portal
 
 
 
-
+<p align="center">
 ![Screenshot](screenshots/tc003.png)
+</p>
 
+<p align="center">
+ <img width="460" height="300" src="screenshots/tc004.png">
+</p>
 
-
-![Screenshot](screenshots/tc004.png)
-
-
-
+![Screenshot](screenshots/tc005.png)
 
 
