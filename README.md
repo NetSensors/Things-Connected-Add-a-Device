@@ -17,13 +17,17 @@ Adding a Sigfox device on the things connected portal
 
 </br>
 <p align="center">
-<img src="screenshots/tc003.png"> <img src="screenshots/tc004.png">
+<img src="screenshots/tc003.png"> 
 </p>
 </br>
 
 1. Enter a name for your device
 2. Enter the Device Id and PAC codes in the appropriate text boxes
 3. Click Next
+
+
+![Screenshot](screenshots/tc004.png)
+
 
 This should complete the creation of your device on the system. It may take up to 5 mins for the registration to complete so please be patient. 
 
