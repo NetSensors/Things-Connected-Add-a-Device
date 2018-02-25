@@ -3,6 +3,7 @@ Adding a Sigfox device on the things connected portal
 
 1. Register for things connected you will need access to your email account and be able to recieve SMS messages. Once you are registered you will be able to add your devices to the Sigfox LPWAN Network.
 
+The registration page can be found here <a href="https://dashboard.thingsconnected.net/login" target="_blank">https://dashboard.thingsconnected.net/login</a>
 
 ![Screenshot](screenshots/tc001.png)
 
